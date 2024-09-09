@@ -1,0 +1,64 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Johnson explains complex topics with clarity and enthusiasm. Her classes are well-organized, and she is always willing to help students."
+      },
+      {
+        "professor": "Prof. Mark Davis",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Davis is very knowledgeable but can be a bit fast-paced. Overall, his teaching style is effective, and he encourages active participation."
+      },
+      {
+        "professor": "Dr. Sarah Lee",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Dr. Lee is knowledgeable, but her lectures can sometimes be hard to follow. The course material is interesting, but assignments can be challenging."
+      },
+      {
+        "professor": "Prof. Robert White",
+        "subject": "History",
+        "stars": 2,
+        "review": "Prof. White’s lectures lack structure, and it’s difficult to stay engaged. He often digresses, making it challenging to grasp the key points."
+      },
+      {
+        "professor": "Dr. Laura Smith",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Smith is an exceptional professor. She makes learning fun and engaging, and her hands-on approach in the lab is both educational and enjoyable."
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Brown is passionate about philosophy, and his lectures are thought-provoking. He encourages critical thinking, but his grading is a bit tough."
+      },
+      {
+        "professor": "Dr. Angela Martinez",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but her lectures are very dense. It’s sometimes hard to keep up with the material, but she offers good office hours for help."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Thompson is excellent at making economics relatable. His examples from real-world applications make the course material engaging and easier to understand."
+      },
+      {
+        "professor": "Dr. Rachel Wilson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Wilson is an amazing professor! Her lectures are interactive, and she truly cares about her students' learning. She goes above and beyond to ensure everyone understands the material."
+      },
+      {
+        "professor": "Prof. James Carter",
+        "subject": "Sociology",
+        "stars": 2,
+        "review": "Prof. Carter’s lectures are often monotonous, and it’s difficult to stay focused. The course content is interesting, but his teaching style needs improvement."
+      }
+    ]
+}  
